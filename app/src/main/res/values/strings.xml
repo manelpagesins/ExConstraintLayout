@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExConstraintLayout</string>
+    <string name="Forma10_50">10%-50%</string>
+    <string name="Forma20_50">20%-50%</string>
+    <string name="Forma25_50">25%-50%</string>
+    <string name="Forma30_50">30%-50%</string>
+    <string name="Forma45_50">45%-50%</string>
+    <string name="Forma70_50">70%-50%</string>
+</resources>
